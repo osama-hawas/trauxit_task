@@ -1,6 +1,6 @@
 # trauxit_task
 
-You have completed the tasks by creating an application that includes all the tasks
+I have completed the tasks by creating an application that includes all the tasks .
 some features i used in this app :
 - Bloc & Cubit
 - Restful APIs
