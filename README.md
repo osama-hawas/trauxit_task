@@ -9,3 +9,5 @@ some features i used in this app :
 - use kiwi
 - make Beautiful UI
 - cleen code
+  _ vedio for my app
+  https://github.com/osama-hawas/trauxit_task/assets/55797457/f0bc8c7d-407d-4faa-9234-4ab3b8e1b249
